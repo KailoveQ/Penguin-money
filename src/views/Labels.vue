@@ -1,8 +1,11 @@
 <template>
-<div id="">Labels.vue</div>
+<div id="">Labels.vue
+  <Nav/>
+</div>
 </template>
 
 <script lang="ts">
+
 export default {
 name: "Labels"
 }

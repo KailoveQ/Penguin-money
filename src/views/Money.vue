@@ -1,8 +1,12 @@
 <template>
-<div id="">Money.vue</div>
+<div id="">
+  Money.vue
+<Nav/>
+</div>
 </template>
 
 <script lang="ts">
+
 export default {
 name: "Money"
 }
