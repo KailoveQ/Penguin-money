@@ -11,3 +11,4 @@ const recordListModel = {
   }
 };
 export default recordListModel;
+
