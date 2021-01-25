@@ -42,6 +42,7 @@
 
     onUpdateNotes(value: string) {
       this.record.notes = value;
+
     }
 
     saveRecord() {
